@@ -74,8 +74,14 @@
   flex-wrap: nowrap;
   width: 75%;
   margin: 20px;
-  text-align: center;
+  text-align: left;
   
+}
+
+.img-p {
+  display: flex;
+  width: 90%;
+  text-align: left;
 }
 
 .awesome {

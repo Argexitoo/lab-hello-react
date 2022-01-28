@@ -5,7 +5,7 @@ function Icon4() {
         <div>
             <img src={icon4} alt="" className="img"/>
             <h4>JSX</h4>
-            <p>Statically-typed, designed to run on modern browsers.</p>
+            <p className="img-p">Statically-typed, designed to run on modern browsers.</p>
         </div>
     )
 }

@@ -5,7 +5,7 @@ function Icon3() {
         <div>
             <img src={icon3} alt="" className="img"/>
             <h4>Single-Wat</h4>
-            <p>A set of immutable values are passed to the component's</p>
+            <p className="img-p">A set of immutable values are passed to the component's</p>
         </div>
     )
 }

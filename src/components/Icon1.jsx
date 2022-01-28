@@ -5,7 +5,7 @@ function Icon1() {
         <div>
             <img src={icon1} alt="" className="img"/>
             <h4>Declarative</h4>
-            <p>React makes it painless to create interactive UIs.</p>
+            <p className="img-p">React makes it painless to create interactive UIs.</p>
         </div>
     )
 }

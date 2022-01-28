@@ -5,7 +5,7 @@ function Icon2() {
         <div>
             <img src={icon2} alt="" className="img"/>
             <h4>Components</h4>
-            <p>Build encapsulated components that manage their state</p>
+            <p className="img-p">Build encapsulated components that manage their state</p>
         </div>
     )
 }
